@@ -1,0 +1,14 @@
+Feature,Selected_by_GA,Reason
+age,1,Included
+sex,0,Excluded
+cp,0,Excluded
+trestbps,1,Included
+chol,0,Excluded
+fbs,1,Included
+restecg,1,Included
+thalach,1,Included
+exang,1,Included
+oldpeak,1,Included
+slope,0,Excluded
+ca,1,Included
+thal,1,Included
